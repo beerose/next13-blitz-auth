@@ -9,7 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@blitzjs/auth": "2.0.0-beta.15",
+    "@blitzjs/next": "2.0.0-beta.15",
+    "@prisma/client": "^4.5.0",
+    "blitz": "2.0.0-beta.15",
     "next": "13.0.0",
+    "prisma": "^4.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
