@@ -44,4 +44,6 @@ const UserPage: BlitzPage = () => {
   )
 }
 
+UserPage.authenticate = { redirectTo: "/login" }
+
 export default UserPage
